@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📝 I regularly write articles on [(portfolio in progress)]((portfolio in progress))
-
 - 💬 Ask me about **Angular, Ext JS**
 
 - 📫 How to reach me **marcsancho22@gmail.com**
