@@ -12,7 +12,7 @@
 ### 👋 Hi, I'm Marc
 
 Front-end developer in Palma de Mallorca. Since 2023 I build large enterprise applications in
-**Angular** and **ExtJS** at Serviceware, and I lead my team's move to **AI-first development**:
+**Angular**, **React** and **ExtJS** at Serviceware, and I lead my team's move to **AI-first development**:
 agents that plan, implement and review real tickets, with a person approving every write.
 
 - 🧩 **Day job:** Angular widgets and apps in an NX monorepo, a very large ExtJS client, a React
