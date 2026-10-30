@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=9BD9B2&center=true&vCenter=true&width=620&lines=Front-end+Developer+%C2%B7+Angular+%26+ExtJS;Enterprise+front-ends%2C+shipped+with+AI+agents;Palma+de+Mallorca+%C2%B7+remote+%26+hybrid" alt="Front-end Developer · Angular & ExtJS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=9BD9B2&center=true&vCenter=true&width=620&lines=Front-end+Developer+%C2%B7+Angular+%26+ExtJS;Enterprise+front-ends%2C+shipped+with+AI+agents;Palma+de+Mallorca+%C2%B7+remote+%26+hybrid" alt="Front-end Developer · Angular, React & ExtJS" />
 </p>
 
 <p align="center">
